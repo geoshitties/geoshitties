@@ -2,3 +2,4 @@
 body { margin: 0px; }
 .navbar > ul > li > a { color: white; text-decoration: none; }
 div { box-sizing: border-box; }
+.primary_content { float: right; width: 80%; background-color: rgb(204, 204, 204); height: 100%; padding: 10px; background-position: initial initial; background-repeat: initial initial; }
