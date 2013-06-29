@@ -1,0 +1,4 @@
+.navbar { float: left; width: 20%; height: 100%; background-color: gray; color: white; background-position: initial initial; background-repeat: initial initial; }
+body { margin: 0px; }
+.navbar > ul > li > a { color: white; text-decoration: none; }
+div { box-sizing: border-box; }
